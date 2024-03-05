@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-    <title>Kung.foo - a place for links</title>
+    <title>Linkwave - a place for links</title>
     <meta
         name="description"
         content="Demo project for the Full SvelteKit Course by Fireship"
@@ -14,7 +14,7 @@
     <div class="hero bg-base-200">
         <div class="hero-content text-center">
             <div class="w-full">
-                <h1 class="text-7xl font-bold">Kung.foo</h1>
+                <h1 class="text-7xl font-bold">Linkwave</h1>
                 <p class="py-6 text-2xl">
                     One simple link to share your entire developer portfolio
                 </p>

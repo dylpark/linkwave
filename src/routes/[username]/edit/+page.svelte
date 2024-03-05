@@ -92,7 +92,7 @@
                     href={`/${$userData?.username}`}
                     class="link link-accent"
                 >
-                    https://kung.foo/{$userData?.username}
+                    https://linkwave.vercel.app/{$userData?.username}
                 </a>
             </p>
         </div>
