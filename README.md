@@ -1,22 +1,23 @@
-# create-svelte
+# Linkwave
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Linkwave is a Social Link Sharing Platform inspired by 🌴 Linktree where users can publish and edit a profile for their social media links. The goal of this project is to leverage SvelteKits’s rendering capabilities with a variety of user authentication and data fetching patterns.
 
-## Creating a project
+⚡ Essential Svelte topics
+💪 Server-side rendering, SEO, data fetching, and caching
+🍪 Cookie-based user authentication
+💥 Forms with SvelteKit Actions
+🦋 Integrate Tailwind and DaisyUI with SvelteKit
+🤏 Fullstack Drag-and-drop from scratch
+🔥 How to rapidly ship complex features with Firebase
+🤔 Analysis of potential design choices and their tradeoffs
+🎨 Svelte animations with real-world data
+💎 Deploy SvelteKit with serverless functions
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Everything you need to rebuild this Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Install dependencies with `npm install` (or `pnpm install` or `yarn`), and start a development server:
 
 ```bash
 npm run dev
@@ -27,7 +28,7 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of your app:
+To create a production version of the app:
 
 ```bash
 npm run build
