@@ -4,14 +4,23 @@ Linkwave is a Social Link Sharing Platform inspired by 🌴 Linktree where users
 
 ⚡ Essential Svelte topics
 💪 Server-side rendering, SEO, data fetching, and caching
+
 🍪 Cookie-based user authentication
+
 💥 Forms with SvelteKit Actions
+
 🦋 Integrate Tailwind and DaisyUI with SvelteKit
+
 🤏 Fullstack Drag-and-drop from scratch
+
 🔥 How to rapidly ship complex features with Firebase
+
 🤔 Analysis of potential design choices and their tradeoffs
+
 🎨 Svelte animations with real-world data
+
 💎 Deploy SvelteKit with serverless functions
+
 
 Everything you need to rebuild this Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
