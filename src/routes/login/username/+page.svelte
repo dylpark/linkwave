@@ -43,7 +43,7 @@
             username,
             photoURL: $user?.photoURL ?? null,
             published: true,
-            bio: 'I am the Walrus',
+            bio: 'Welcome to Linkwave!',
             links: [
                 {
                     title: 'Test Link',

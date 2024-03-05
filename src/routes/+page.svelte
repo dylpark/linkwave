@@ -14,7 +14,7 @@
     <div class="hero bg-base-200">
         <div class="hero-content text-center">
             <div class="w-full">
-                <h1 class="text-7xl font-bold">Linkwave</h1>
+                <h1 class="text-4xl font-bold mb-4">Linkwave</h1>
                 <p class="py-6 text-2xl">
                     One simple link to share your entire developer portfolio
                 </p>
